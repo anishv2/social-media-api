@@ -1,0 +1,37 @@
+{
+    "user":{
+        "hi" :"Hi, ",
+        "invalid":"Invalid credentials",
+        "register":"User registered successfully",
+        "registerfail":"Registration failed",
+        "exist":"Email already exist",
+        "notexist":"User not exist",
+        "updatefail":"User Updation failed",
+        "updatesuccess":"Password updated successfully",
+        "password":"Password not matched",
+        "loginerror":"Error occured while login",
+        "loginfail":"login failed",
+        "deletesuccess":"User deleted successfully",
+        "deletefail":"User not deleted",
+        "unauthorize":"Unauthorized user",
+        "follow": "Followed successfully",
+        "unfollow": "Unfollowed"
+    },
+    "post":{
+        "create":"Post created successfully",
+        "createfail":"Post creation failed",
+        "updatefail":"Post updation failed",
+        "updatesuccess":"Post updated successfully",
+        "deletesuccess":"Post deleted successfully",
+        "deletefail":"Post not deleted"
+    },
+    "like": {
+        "create": "Liked post",
+        "delete": "Unlike post"
+    },
+    "comment": {
+        "create": "Comment posted successfully",
+        "delete": "Comment deleted successfully",
+        "update": "Comment updated successfully"
+    }
+}
